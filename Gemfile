@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+
 gem "Hashie"
 gem "sinatra", "1.4.4"
 gem "octokit", "~>2.0"
