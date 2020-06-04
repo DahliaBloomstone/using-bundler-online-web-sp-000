@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+source "https://github.com"
 
 gem "hashie"
 gem "sinatra", "1.4.4"
