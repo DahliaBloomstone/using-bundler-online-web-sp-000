@@ -4,8 +4,6 @@ GIT
   specs:
     awesome_print (1.7.0)
 
-
-
 GEM
   remote: https://rubygems.org/
   specs:
