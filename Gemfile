@@ -6,8 +6,7 @@ group :development do
 gem "pry"
 end
 
-Hashie
-Sinatra
-Octokit
-Pry
-AwesomePrint
+gem 'hashie'
+sinatra 1.4.4
+octokit 2.0 ~>
+awesome_print
